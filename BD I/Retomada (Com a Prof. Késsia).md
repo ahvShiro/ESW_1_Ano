@@ -48,8 +48,7 @@ Modelo abstraído e mais básico possível. Caiu no desuso no mundo real
 - Limite definido
 
 > [!important]  
-> PostgreSQL não têm escalabilidade, não é bom usar pra web
-> pgAdmin  
+> Ferramentas: PostgreSQL (não têm escalabilidade, não é bom usar pra web) e pgAdmin  
 
 > [!important]  
 > char(): Apenas tamanho solicitado
