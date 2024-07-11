@@ -4,25 +4,20 @@
 ## Modelos podem ser:
 
 ### Textuais
-
 - documentos
 - descriçao de casos de uso
 - portugol
 - estórias de usuário
 
 ### Gráficos
-
 - diagramas UML
 - wireframes
 - mapas mentais
 - decomposição funcional
 
-  
-
 > [!important]  
 > Abstração: tradução de uma coisa para outra, mas simplificada  
-
-  
+^e55586
 
 1. Modelagem conceitual (Modelo de requisitos)
 2. Modelagem comportamental (Casos de uso)
