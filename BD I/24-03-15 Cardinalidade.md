@@ -1,3 +1,4 @@
+#BD_I 
 
 > [!important]  
 > Três valores: 0, 1 e N  

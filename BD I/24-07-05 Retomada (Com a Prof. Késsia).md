@@ -1,4 +1,6 @@
-> [!important]  
+#BD_I
+
+> [!note]  
 > Tomada de decisão: Modo mais importante de usar dados  
 
 ![[piramide_do_conhecimento.png]]
@@ -18,29 +20,28 @@
 | xxxxxxxxxxx | xxxxxxxxxxx | xxxxxxxxxxx |
 | xxxxxxxxxxx | xxxxxxxxxxx | xxxxxxxxxxx |
 
-> [!important]  
-> Normalização: Normas de processamento e inserção de dadosModelo Relacional: Modelo com entidades e relacões, sem repetições  
+> [!note]  
+> Normalização: Normas de processamento e inserção de dadosModelo Relacional: Modelo com entidades e relações, sem repetições  
 
-# Modelo Conceitual
+# Tipos de [[24-07-01 Modelo e Modelagem|Modelos]]
+## Modelo Conceitual
 
 ![[diagrama_conceitual.png]]
 
-Modelo abstraído e mais básico possível. Caiu no desuso no mundo real
-
-# Modelo Lógico
+- Modelo [[24-07-01 Modelo e Modelagem#^e55586|abstraído]] e mais básico possível. Caiu no desuso no mundo real
+- Ideia básica para aplicar
+## Modelo Lógico
 
 ![[diagrama_logico.png]]
 
-# Modelo Final
+## Modelo Final
 
 | id  | titulo         | numero_paginas | edicao |
 | --- | -------------- | -------------- | ------ |
 | 1   | Banco de Dados | 123            | 15     |
 
 ---
-
 ## Regras para ID
-
 - Único
 - Obrigatório
 - Inteiro
