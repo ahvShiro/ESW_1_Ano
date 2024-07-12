@@ -54,3 +54,4 @@
 > [!important]  
 > char(): Apenas tamanho solicitado
 > varchar(): Tamanho solicitado + 1
+
