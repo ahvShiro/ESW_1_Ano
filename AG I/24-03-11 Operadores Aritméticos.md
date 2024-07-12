@@ -50,6 +50,7 @@ n3 = int(input("Nota 3/4 "))
 n4 = int(input("Nota 4/4 "))
 
 print("A média aritmética das notas é:", (n1 + n2 + n3 + n4) / 4)
+
 ```
 ```python
 print("Exercício 4: Média ponderada de 3 notas")
