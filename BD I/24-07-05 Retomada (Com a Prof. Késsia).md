@@ -5,14 +5,9 @@
 
 ![[piramide_do_conhecimento.png]]
 
-  
-
 ==Preço de computador: R$== 3487
-
 - Exemplo de dado não estruturado
-
 ## Dados estruturados
-
 - Normalmente em formato de tabela
 
 | Preço       | Produto     | Descrição   |
@@ -22,7 +17,6 @@
 
 > [!note]  
 > Normalização: Normas de processamento e inserção de dadosModelo Relacional: Modelo com entidades e relações, sem repetições  
-
 # Tipos de [[24-07-01 Modelo e Modelagem|Modelos]]
 ## Modelo Conceitual
 
@@ -54,4 +48,3 @@
 > [!important]  
 > char(): Apenas tamanho solicitado
 > varchar(): Tamanho solicitado + 1
-
