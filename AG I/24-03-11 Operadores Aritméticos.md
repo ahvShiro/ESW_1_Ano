@@ -18,9 +18,9 @@
 x = (4 * 3) – 2
 ```
 ## Prioridade de Operações
-1. \***
-2. \ * ou /
-3. + ou \-
+1. `**`
+2. `* ou /`
+3. `+ ou -`
 # Exercícios
 ```python
 print("Exercício 2: Rendimento da aplicação de uma poupança")
