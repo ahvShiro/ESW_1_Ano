@@ -49,8 +49,7 @@
 - Limite definido
 
 > [!important]  
-> PostgreSQL não têm escalabilidade, não é bom usar pra web
-> pgAdmin  
+> Ferramentas: PostgreSQL (não têm escalabilidade, não é bom usar pra web) e pgAdmin  
 
 > [!important]  
 > char(): Apenas tamanho solicitado
