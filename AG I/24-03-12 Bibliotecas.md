@@ -3,3 +3,7 @@
 - Importada no começo do algoritmo
 ## Biblioteca random
 kfkwfklçsfdklçeçlkewrlçkewrlkçewrlkçwer
+
+
+19:10
+
