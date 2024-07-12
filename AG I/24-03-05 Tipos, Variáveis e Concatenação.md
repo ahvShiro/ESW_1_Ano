@@ -53,13 +53,41 @@ print("Hello", "world")
 # Com + (Não adiciona nada)
 print("Hello" + " " + "world")
 ```
-# Saída e Entrada
+
+# Exercícios
 ```python
-# Função de saída
-print("Texto de saída")
+# Criar:
+# Uma variável que armazene a sua idade;
+idade = 18
 
-# Função de entrada
-# Output SEMPRE vai ser uma string
+# Uma variável que armazene o seu nome;
+nome = "Nome"
 
-var = input("Insira texto de entrada: ")
+# Uma variável que armazene o seu sobrenome;
+sobrenome = "Sobrenome"
+
+# Uma variável que armazene o seu nome completo, formado pela concatenação do seu nome pelo seu sobrenome (use as variáveis);
+nome_completo = str(nome) + " " + str(sobrenome)
+
+# Uma variável que contenha a sua altura;
+altura = 180
+
+# Uma variável que contenha o seu peso;
+peso = 80
+
+# Uma variável que contenha quantos dias na semana você estuda algoritmos;
+dias_estudando = 8
+
+# Uma variável que indique se a luz do seu quarto está acesa ou apagada;
+luz_quarto = False
+
+
+# 2. Utilize o exercício anterior, apresentando na tela mensagens para cada valor de variável
+print("Seu nome é " + str(nome))
+print("Seu sobrenome é " + str(sobrenome))
+print("Seu nome completo é " + str(nome_completo))
+print("Sua altura é", int(altura))
+print("Seu peso é", float(peso))
+print("Você passa", int(dias_estudando), "dias por semana estudando algoritmos")
+print("A luz do seu quarto está ligada:", bool(luz_quarto))
 ```

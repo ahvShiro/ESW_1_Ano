@@ -1,4 +1,5 @@
 #AG_I 
+
 > [!important]
 > Booleanos: True e False, 1 e 0, sim e não
 ## Operadores Relacionais

@@ -26,19 +26,3 @@ file.link AS "Ética, Cultura e Sociedade"
 FROM #ECS 
 SORT file.name DESC
 ```
-
-```bash
-TODO CHECk
-$ git push origin main
-Enter passphrase for key '/c/Users/arthu/.ssh/id_ed25519':
-To github.com:ahvShiro/ESW_1_ano.git
- ! [rejected]        main -> main (fetch first)
-error: failed to push some refs to 'github.com:ahvShiro/ESW_1_ano.git'
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-
-
-```

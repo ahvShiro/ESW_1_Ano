@@ -1,3 +1,5 @@
+#ESW 
+
 Escopo -> Software
 
 - Escopo é macro demais para fundamentar algo definitivo
