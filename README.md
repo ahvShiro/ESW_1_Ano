@@ -3,8 +3,8 @@ Links:
 
 |               | SEG    | TER     | QUA    | QUI    | SEX     |
 | ------------- | ------ | ------- | ------ | ------ | ------- |
-| 19:20 - 21:00 | 🔵 ESW | 🔴 AG I | 🟡 EE  | 🟣MPES | 🟣 BD I |
-| 21:10 - 22:50 |        | 🔴 AG I | 🔵 ECS | 🟠MDL  | 🔴 LPGA |
+| 19:20 - 21:00 | 🔵 ESW | 🟢 AG I | 🟡 EE  | 🟣MPES | 🟣 BD I |
+| 21:10 - 22:50 |        | 🟢 AG I | 🔵 ECS | 🟠MDL  | 🔴 LPGA |
 
 ```dataview
 TABLE WITHOUT ID
@@ -24,5 +24,33 @@ SORT file.name DESC
 TABLE WITHOUT ID
 file.link AS "Ética, Cultura e Sociedade"
 FROM #ECS 
+SORT file.name DESC
+```
+
+```dataview
+TABLE WITHOUT ID
+file.link AS "Engenharia Econômica"
+FROM #EE
+SORT file.name DESC
+```
+
+```dataview
+TABLE WITHOUT ID
+file.link AS "Engenharia de Software"
+FROM #ESW 
+SORT file.name DESC
+```
+
+```dataview
+TABLE WITHOUT ID
+file.link AS "Leitura e Produção de Gêneros Acadêmicos"
+FROM #LPGA 
+SORT file.name DESC
+```
+
+```dataview
+TABLE WITHOUT ID
+file.link AS "Metodologias de Pesquisa em Engenharia de Software"
+FROM #MPES 
 SORT file.name DESC
 ```
