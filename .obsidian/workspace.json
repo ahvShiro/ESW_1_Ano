@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "206b07b149c5d303",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdc2b9371c880279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc54f31332ff762",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d99afb5359f79ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "501776dfece818a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f57ba81208f5500f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "f4230de2f26d495a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f827e1ae04f1007",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "98db6c584b4a57d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6c79a4f73f378171",
+    "type": "split",
+    "children": [
+      {
+        "id": "228a976f2deb3d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b43cdf8e6e0c116d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "817e4863abca53cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52f752d63151ed2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "023a2627187dea94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "488b6b67dc87d3f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "092f67284739523b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": true,
+      "command-palette:Open command palette": true,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "7cc54f31332ff762",
+  "lastOpenFiles": [
+    "BD I/24-07-12 Diagramas ER.md",
+    "MPES/Pesquisa e Fundamentos.md",
+    "README.md",
+    "BD I/24-07-19 Relacionamentos e Cardinalidade.md",
+    "ECS/24-07-17 Ética Profissional.md",
+    "AG I/24-07-16 Laço de Repetições.md",
+    "ESW/24-03-09 Perfil do Profissional de Requisitos.md",
+    "ESW/24-03-31 Modelos de Processo.md",
+    "ESW/24-03-09 Profissionais na Área.md",
+    "ESW/24-07-01 Modelo e Modelagem.md",
+    "ESW/24-03-09 Ciclo de Vida de Projeto.md",
+    "ESW/24-07-15 Escopo Inútil.md",
+    "Untitled.canvas",
+    "ESW/24-07-15 Custo da Correção de Defeitos.md",
+    "ESW/Flashcards ESW/1º Trimestre.md",
+    "ESW/Untitled",
+    "ESW/Flashcards/Untitled",
+    "ESW/Flashcards ESW",
+    "ESW/Slides ESW/24-07-15 Custo da Correção do Defeito.pdf",
+    "ESW/Slides ESW",
+    "ESW/24-07-08 Origem dos Bugs.md",
+    "ESW/24-07-01 Visão geral - Engenharia de Requisitos.md",
+    "ESW/24-07-01 Refinamento Contínuo.md",
+    "ESW/Untitled.md",
+    "ESW/24-07-08 Cone da Incerteza.md",
+    "EE/24-03-08 Oferta e Demanda.md",
+    "EE/24-07-10 Elasticidade.md",
+    "EE/24-02-23 Os Dez Princípios de Economia.md",
+    "AG I/24-03-12 Bibliotecas.md",
+    "AG I/24-07-09 Trabalhando com Booleanos.md",
+    "LPGA/24-07-12 Relatório.sync-conflict-20240712-215829-AYHW47V.md",
+    "LPGA/~syncthing~24-07-12 Relatório.md.tmp",
+    "LPGA/24-07-12 Relatório.md",
+    "LPGA/~syncthing~24-07-12 Relatório.sync-conflict-20240712-215829-AYHW47V.md.tmp",
+    "EE/Untitled.canvas",
+    "(assets)/diagrama_conceitual.png",
+    "(assets)/diagrama_logico.png",
+    "(assets)/piramide_do_conhecimento.png",
+    "(assets)",
+    "!! assets !!/piramide_do_conhecimento.png",
+    "!! assets !!/diagrama_logico.png",
+    "!! assets !!/diagrama_conceitual.png",
+    "!! assets !!",
+    "!assets/diagrama_conceitual.png",
+    "!assets/diagrama_logico.png",
+    "!assets/piramide_do_conhecimento.png",
+    "AG_I/retomada.py",
+    "fcf0413f-fe9c-4741-80f0-7049d3bd80f4.png"
+  ]
+}
