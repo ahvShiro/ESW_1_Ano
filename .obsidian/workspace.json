@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cdc2b9371c880279",
+        "id": "00c4fedf63bbed05",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc54f31332ff762",
+            "id": "0c8999836ee06d90",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "24-08-12 Priorização de requisitos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "24-08-12 Priorização de requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "24-08-12 Priorização de requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "24-08-12 Priorização de requisitos.md"
+              }
             }
           },
           {
@@ -146,11 +154,21 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
+              "state": {
+                "file": "24-08-12 Priorização de requisitos.md"
+              }
+            }
+          },
+          {
+            "id": "c96aacf6697d1847",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -163,61 +181,67 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": true,
       "command-palette:Open command palette": true,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7cc54f31332ff762",
+  "active": "0c8999836ee06d90",
   "lastOpenFiles": [
-    "BD I/24-07-12 Diagramas ER.md",
-    "MPES/Pesquisa e Fundamentos.md",
     "README.md",
+    "24-08-12 Priorização de requisitos.md",
+    "1. ESW/Revisão ESW.canvas",
+    "3. EE/24-08-07 Intervenção Governamental - Assíncrono.md",
+    "24-08-05 Requisitos.md",
+    "8. LPGA/2024-08-02 Ideias para pesquisa.md",
+    "5. MPES/Revisão não concluida.canvas",
+    "8. LPGA/Untitled.md",
+    "8. LPGA/24-07-12 Relatório.md",
+    "8. LPGA/~syncthing~2024-08-02.md.tmp",
+    "8. LPGA/~syncthing~Untitled.md.tmp",
+    "7. BD I/Diagrama ER.md",
+    "7. BD I/~syncthing~Diagrama ER.md.tmp",
+    "5. MPES/24-07-25 Revisão.md",
+    "5. MPES/Untitled Kanban.md",
+    "5. MPES/Pesquisa e Fundamentos.md",
+    "2. AG I/24-07-30 Loops contados e não contados.md",
+    "Untitled.md",
+    "8. LPGA/24-07-25 Relatório de Ciência da Computação.md",
+    "7. BD I/24-07-19 Relacionamentos e Cardinalidade.md",
+    "7. BD I/24-03-15 Cardinalidade.md",
+    "4. ECS/Revisão 1º Trimestre.canvas",
+    "2. AG I/24-07-09 Trabalhando com Booleanos.md",
+    "atividade06.py",
+    "2. AG I/24-07-16 Laço de Repetições.md",
+    "2. AG I/24-03-12 Bibliotecas.md",
+    "TO-DO.md",
+    "Revisão ESW.sync-conflict-20240722-191110-AYHW47V.canvas",
+    "Revisão ESW.sync-conflict-20240722-190834-AYHW47V.canvas",
+    "Revisão ESW.sync-conflict-20240722-191220-AYHW47V.canvas",
+    "~syncthing~README.md.tmp",
+    "Revisão ESW.sync-conflict-20240722-191716-AYHW47V.canvas",
+    "~syncthing~Revisão ESW.sync-conflict-20240722-191716-AYHW47V.canvas.tmp",
+    "~syncthing~Revisão ESW.sync-conflict-20240722-191220-AYHW47V.canvas.tmp",
+    "~syncthing~Revisão ESW.sync-conflict-20240722-191110-AYHW47V.canvas.tmp",
+    "~syncthing~Revisão ESW.sync-conflict-20240722-190834-AYHW47V.canvas.tmp",
+    "8. LPGA",
+    "7. BD I/24-07-12 Diagramas ER.md",
+    "7. BD I/24-07-05 Retomada (Com a Prof. Késsia).md",
+    "7. BD I/24-03-07 SGBDs e Modelos de Dados.md",
+    "BD I/24-07-12 Diagramas ER.md",
     "BD I/24-07-19 Relacionamentos e Cardinalidade.md",
-    "ECS/24-07-17 Ética Profissional.md",
-    "AG I/24-07-16 Laço de Repetições.md",
-    "ESW/24-03-09 Perfil do Profissional de Requisitos.md",
-    "ESW/24-03-31 Modelos de Processo.md",
-    "ESW/24-03-09 Profissionais na Área.md",
-    "ESW/24-07-01 Modelo e Modelagem.md",
-    "ESW/24-03-09 Ciclo de Vida de Projeto.md",
-    "ESW/24-07-15 Escopo Inútil.md",
-    "Untitled.canvas",
-    "ESW/24-07-15 Custo da Correção de Defeitos.md",
-    "ESW/Flashcards ESW/1º Trimestre.md",
-    "ESW/Untitled",
-    "ESW/Flashcards/Untitled",
-    "ESW/Flashcards ESW",
-    "ESW/Slides ESW/24-07-15 Custo da Correção do Defeito.pdf",
-    "ESW/Slides ESW",
-    "ESW/24-07-08 Origem dos Bugs.md",
-    "ESW/24-07-01 Visão geral - Engenharia de Requisitos.md",
-    "ESW/24-07-01 Refinamento Contínuo.md",
-    "ESW/Untitled.md",
-    "ESW/24-07-08 Cone da Incerteza.md",
-    "EE/24-03-08 Oferta e Demanda.md",
-    "EE/24-07-10 Elasticidade.md",
-    "EE/24-02-23 Os Dez Princípios de Economia.md",
-    "AG I/24-03-12 Bibliotecas.md",
-    "AG I/24-07-09 Trabalhando com Booleanos.md",
-    "LPGA/24-07-12 Relatório.sync-conflict-20240712-215829-AYHW47V.md",
-    "LPGA/~syncthing~24-07-12 Relatório.md.tmp",
-    "LPGA/24-07-12 Relatório.md",
-    "LPGA/~syncthing~24-07-12 Relatório.sync-conflict-20240712-215829-AYHW47V.md.tmp",
+    "4. ECS/24-07-17 Ética Profissional.md",
     "EE/Untitled.canvas",
-    "(assets)/diagrama_conceitual.png",
-    "(assets)/diagrama_logico.png",
-    "(assets)/piramide_do_conhecimento.png",
-    "(assets)",
+    "0. Assets/diagrama_conceitual.png",
+    "0. Assets/diagrama_logico.png",
+    "0. Assets/piramide_do_conhecimento.png",
     "!! assets !!/piramide_do_conhecimento.png",
     "!! assets !!/diagrama_logico.png",
     "!! assets !!/diagrama_conceitual.png",
-    "!! assets !!",
     "!assets/diagrama_conceitual.png",
     "!assets/diagrama_logico.png",
     "!assets/piramide_do_conhecimento.png",
-    "AG_I/retomada.py",
     "fcf0413f-fe9c-4741-80f0-7049d3bd80f4.png"
   ]
 }

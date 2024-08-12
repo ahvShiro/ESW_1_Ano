@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"f0ef19dda772472d","type":"text","text":"PESQUISA QUALITATIVA","x":1560,"y":905,"width":250,"height":60},
+		{"id":"0fb00fb21783b703","type":"text","text":"MAPEAMENTO SISTEMÁTICO","x":1840,"y":882,"width":250,"height":60},
+		{"id":"a2a220221381573b","type":"text","text":"REVISÃO SISTEMÁTICA","x":1892,"y":463,"width":250,"height":60},
+		{"id":"79a2161d9af64163","type":"text","text":"REVISÃO NARRATIVA","x":1892,"y":592,"width":250,"height":60},
+		{"id":"55280706c3868ebe","type":"text","text":"REVISÃO INTEGRATIVA","x":1892,"y":777,"width":250,"height":60},
+		{"id":"9669ffb3e88aaeb9","type":"text","text":"PESQUISA CIENTÍFICA","x":1590,"y":672,"width":250,"height":60},
+		{"id":"b1c9cd0fd5695542","type":"text","text":"PESQUISA DESCRITIVA","x":2306,"y":424,"width":250,"height":60},
+		{"id":"0908649308da26f9","type":"text","text":"PESQUISA EXPLICATIVA","x":2323,"y":543,"width":250,"height":60},
+		{"id":"9617e462c7b9b6a8","type":"text","text":"ESTUDO DESCRITIVA","x":2660,"y":424,"width":250,"height":60},
+		{"id":"2bf5624d6a0e2241","type":"text","text":"ESTUDO EXPLICATIVA","x":2677,"y":543,"width":250,"height":60},
+		{"id":"d013d25e23cf305a","type":"text","text":"PESQUISA DOCUMENTAL","x":2323,"y":702,"width":250,"height":60},
+		{"id":"4fda21cf715bbb83","type":"text","text":"PESQUISA EXPLORATÓRIA","x":1291,"y":318,"width":269,"height":60},
+		{"id":"37bb4cb68b8ee193","type":"text","text":"PESQUISA DESCRITIVA","x":1892,"y":204,"width":250,"height":60},
+		{"id":"20b6175d6dd0f59e","type":"text","text":"PESQUISA EXPERIMENTAL","x":1918,"y":298,"width":250,"height":60},
+		{"id":"6bff8fc0b4953f28","type":"text","text":"PESQUISA BIBLIOGRÁFICA","x":1921,"y":95,"width":250,"height":60},
+		{"id":"4971a5d9e4d3c0c5","type":"text","text":"PESQUISA QUANTITATIVA","x":1080,"y":935,"width":250,"height":60},
+		{"id":"94d0d1d83937d6f9","type":"text","text":"METODOLOGIA","x":491,"y":433,"width":250,"height":60},
+		{"id":"b4cbcfc1d3699913","type":"text","text":"CONHECIMENTO EMPÍRICO","x":-710,"y":433,"width":250,"height":60},
+		{"id":"5913c83ff453fbd4","type":"text","text":"CONHECIMENTO TEÓRICO","x":-640,"y":642,"width":250,"height":60},
+		{"id":"583c647e6b187228","type":"text","text":"CONHECIMENTO CIENTÍFICO","x":-360,"y":777,"width":250,"height":60},
+		{"id":"055647880fa97ced","type":"text","text":"CONHECIMENTO","x":-235,"y":463,"width":250,"height":60},
+		{"id":"ab0ef068368d7802","type":"text","text":"CONHECIMENTO FILOSÓFICO","x":-515,"y":258,"width":250,"height":60},
+		{"id":"fd331c194d93db01","type":"text","text":"CIÊNCIA","x":116,"y":174,"width":250,"height":60},
+		{"id":"76127f72e02c5dc7","type":"text","text":"INDUÇÃO","x":346,"y":-46,"width":250,"height":60},
+		{"id":"4abc33911ec5bfd0","type":"text","text":"DEDUÇÃO","x":430,"y":65,"width":250,"height":60},
+		{"id":"a1d9ca7b649a88e2","type":"text","text":"MÉTODO","x":491,"y":582,"width":250,"height":60},
+		{"id":"a330b66456314083","type":"text","text":"MÉTODO CIENTÍFICO","x":680,"y":822,"width":250,"height":60},
+		{"id":"e0e4d658ebbd75a0","type":"text","text":"TÉCNICA CIENTÍFICA","x":305,"y":822,"width":250,"height":60}
+	],
+	"edges":[]
+}

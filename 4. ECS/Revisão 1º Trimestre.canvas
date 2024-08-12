@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"38aa2a88039560c6","x":-160,"y":-40,"width":250,"height":60,"type":"text","text":"LIBERDADE"},
+		{"id":"a0408c04753634f5","x":480,"y":-40,"width":250,"height":60,"type":"text","text":"DETERMINISMO"},
+		{"id":"99a358c224a97386","x":-160,"y":480,"width":250,"height":60,"type":"text","text":"DEONTOLOGIA"},
+		{"id":"10d021fdff6c0d28","x":480,"y":480,"width":250,"height":60,"type":"text","text":"UTILITARISMO"},
+		{"id":"cdeb17cd89424340","x":1336,"y":227,"width":250,"height":60,"type":"text","text":"ÉTICA PROFISSIONAL"}
+	],
+	"edges":[]
+}

@@ -21,7 +21,7 @@ if (condição):
 ```
 ## Estrutura condicional composta
 - Comparação múltipla de valores
-```python
+```run-python
 if (condição):
 	bloco de instrução
 	bloco de instrução
@@ -45,4 +45,19 @@ elif (condição2): # Ocorre caso anterior não se cumprir
 else (condição3): # Ocorre caso nenhuma condição anterior se cumprir
 	bloco de instrução
 	bloco de instrução
+```
+
+```python
+x = int(input("Numero inteiro: "))
+
+if(x % 2 == 0):
+    print("Par")
+else:
+    print("Ímpar")
+
+y = int(input("Outro número: "))
+if(y > 0):
+    y = 1 / y
+else:
+    y = -1
 ```
