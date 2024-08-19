@@ -1,7 +1,5 @@
 #ESW 
-
 - O que gera mais Business Value deve ser priorizado
-
 ## Tipos de Prioridades de Requisitos
 ### Essencial
 - Não pode entrar em produção sem ele
@@ -18,5 +16,3 @@
 
 > [!important] Regras de negócio NÃO tem prioridade
 > A regra de negócio está implicitamente ligada a um requisito funcional 
-
-
