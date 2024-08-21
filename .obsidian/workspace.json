@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "24-08-20 Estruturas de dados - Vetores.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "24-08-20 Estruturas de dados - Vetores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "24-08-20 Estruturas de dados - Vetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "24-08-20 Estruturas de dados - Vetores.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "24-08-20 Estruturas de dados - Vetores.md"
               }
             }
           },
@@ -188,10 +188,11 @@
   },
   "active": "ce025566152a6cd1",
   "lastOpenFiles": [
+    "README.md",
+    "24-08-20 Estruturas de dados - Vetores.md",
     "1. ESW/24-08-19 Classificação de Requisitos.md",
     "1. ESW/24-08-12 Priorização de requisitos.md",
     "1. ESW/24-08-05 Requisitos.md",
-    "README.md",
     "1. ESW/Revisão ESW.canvas",
     "3. EE/24-08-07 Intervenção Governamental - Assíncrono.md",
     "24-08-05 Requisitos.md",
@@ -230,7 +231,6 @@
     "7. BD I/24-07-12 Diagramas ER.md",
     "7. BD I/24-07-05 Retomada (Com a Prof. Késsia).md",
     "7. BD I/24-03-07 SGBDs e Modelos de Dados.md",
-    "BD I/24-07-12 Diagramas ER.md",
     "EE/Untitled.canvas",
     "0. Assets/diagrama_conceitual.png",
     "0. Assets/diagrama_logico.png",
