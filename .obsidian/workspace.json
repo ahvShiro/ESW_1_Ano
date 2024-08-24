@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00c4fedf63bbed05",
+        "id": "bb7494e150ad687f",
         "type": "tabs",
         "children": [
           {
-            "id": "ce025566152a6cd1",
+            "id": "cecdb7e9b5103493",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fec1d22bb1eff17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. MPES/Pesquisa e Fundamentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ESW",
+                "query": "lpga",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5026054382324
   },
   "right": {
     "id": "6c79a4f73f378171",
@@ -93,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-08-20 Estruturas de dados - Vetores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-08-20 Estruturas de dados - Vetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-08-20 Estruturas de dados - Vetores.md"
+                "file": "8. LPGA/Assíncrona.md"
               }
             }
           },
@@ -155,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "24-08-20 Estruturas de dados - Vetores.md"
+                "file": "8. LPGA/Assíncrona.md"
               }
             }
           },
@@ -168,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -186,30 +197,34 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ce025566152a6cd1",
+  "active": "f57ba81208f5500f",
   "lastOpenFiles": [
-    "README.md",
+    "7. BD I/24-08-23 SQL.md",
+    "5. MPES/Pesquisa e Fundamentos.md",
+    "5. MPES/24-08-22 Artigos científicos.md",
+    "5. MPES/24-07-25 Revisão.md",
     "24-08-20 Estruturas de dados - Vetores.md",
+    "8. LPGA/Assíncrona.md",
+    "8. LPGA/24-07-12 Relatório.md",
+    "8. LPGA/24-07-25 Relatório de Ciência da Computação.md",
+    "8. LPGA/2024-08-02 Ideias para pesquisa.md",
+    "README.md",
+    "4. ECS/24-08-21 Atividade ECS - Engenharia de Software.md",
     "1. ESW/24-08-19 Classificação de Requisitos.md",
     "1. ESW/24-08-12 Priorização de requisitos.md",
     "1. ESW/24-08-05 Requisitos.md",
     "1. ESW/Revisão ESW.canvas",
     "3. EE/24-08-07 Intervenção Governamental - Assíncrono.md",
     "24-08-05 Requisitos.md",
-    "8. LPGA/2024-08-02 Ideias para pesquisa.md",
     "5. MPES/Revisão não concluida.canvas",
     "8. LPGA/Untitled.md",
-    "8. LPGA/24-07-12 Relatório.md",
     "8. LPGA/~syncthing~2024-08-02.md.tmp",
     "8. LPGA/~syncthing~Untitled.md.tmp",
     "7. BD I/Diagrama ER.md",
     "7. BD I/~syncthing~Diagrama ER.md.tmp",
-    "5. MPES/24-07-25 Revisão.md",
     "5. MPES/Untitled Kanban.md",
-    "5. MPES/Pesquisa e Fundamentos.md",
     "2. AG I/24-07-30 Loops contados e não contados.md",
     "Untitled.md",
-    "8. LPGA/24-07-25 Relatório de Ciência da Computação.md",
     "7. BD I/24-07-19 Relacionamentos e Cardinalidade.md",
     "7. BD I/24-03-15 Cardinalidade.md",
     "4. ECS/Revisão 1º Trimestre.canvas",
@@ -217,7 +232,6 @@
     "atividade06.py",
     "2. AG I/24-07-16 Laço de Repetições.md",
     "2. AG I/24-03-12 Bibliotecas.md",
-    "TO-DO.md",
     "Revisão ESW.sync-conflict-20240722-191110-AYHW47V.canvas",
     "Revisão ESW.sync-conflict-20240722-190834-AYHW47V.canvas",
     "Revisão ESW.sync-conflict-20240722-191220-AYHW47V.canvas",
@@ -228,9 +242,6 @@
     "~syncthing~Revisão ESW.sync-conflict-20240722-191110-AYHW47V.canvas.tmp",
     "~syncthing~Revisão ESW.sync-conflict-20240722-190834-AYHW47V.canvas.tmp",
     "8. LPGA",
-    "7. BD I/24-07-12 Diagramas ER.md",
-    "7. BD I/24-07-05 Retomada (Com a Prof. Késsia).md",
-    "7. BD I/24-03-07 SGBDs e Modelos de Dados.md",
     "EE/Untitled.canvas",
     "0. Assets/diagrama_conceitual.png",
     "0. Assets/diagrama_logico.png",

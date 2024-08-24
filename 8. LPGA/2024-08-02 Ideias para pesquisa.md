@@ -1,3 +1,4 @@
+#LPGA 
 
 > [!NOTE] Ideias jogadas
 > - Cloudstrike 
