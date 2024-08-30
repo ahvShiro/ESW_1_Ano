@@ -1,0 +1,31 @@
+#BD_I
+
+```postgresql
+CREATE TABLE estado(
+	id_est SERIAL PRIMARY KEY NOT NULL,
+	sigla CHAR(2) NOT NULL
+);
+
+CREATE TABLE cidade(
+	id_cid SERIAL PRIMARY KEY NOT NULL,
+	nome VARCHAR NOT NULL,
+	id_est INT NOT NULL
+	REFERENCES estado(id_est)
+);
+
+INSERT INTO estado (sigla)
+VALUES ('PR')
+
+SELECT * FROM estado
+
+
+INSERT INTO cidade (nome, id_est)
+VALUES ('Paranavaí', 1);
+
+SELECT * FROM CIDADE
+
+-- DML de exclusão
+
+DELETE FROM estado WHERE id_est = 1;
+
+```
