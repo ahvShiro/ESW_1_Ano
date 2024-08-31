@@ -1,13 +1,20 @@
 #BD_I
 
+> [important] ACID
+> - Atomicidade
+> - Consistência
+> - Isolamento
+> - Durabilidade
+
 ```postgresql
-DROP TABLE estado;
+DROP TABLE IF EXISTS cidade;
+DROP TABLE IF EXISTS estado;
+
 CREATE TABLE estado(
 	id_est SERIAL PRIMARY KEY NOT NULL,
 	sigla CHAR(2) NOT NULL
 );
 
-DROP TABLE cidade;
 CREATE TABLE cidade(
 	id_cid SERIAL PRIMARY KEY NOT NULL,
 	nome VARCHAR NOT NULL,
@@ -19,15 +26,37 @@ CREATE TABLE cidade(
 INSERT INTO estado (sigla)
 VALUES ('PR');
 
+INSERT INTO estado (sigla)
+VALUES ('SP');
+
 SELECT * FROM estado;
 
 
 INSERT INTO cidade (nome, id_est)
-VALUES ('Paranavaí', 1);
+VALUES ('Paranavaí', 2);
+
+INSERT INTO cidade (nome, id_est)
+VALUES ('Maringá', 2);
+
+INSERT INTO cidade (nome, id_est)
+VALUES ('')
 
 SELECT * FROM CIDADE;
 
 -- DML de exclusão
 
 DELETE FROM estado WHERE id_est = 1;
+
+
+-- SELECT com mais de uma tabela
+SELECT cidade.nome, estado.sigla FROM cidade, estado
+WHERE estado.id_est = cidade.id_est
+
+-- OU
+
+SELECT cidade.nome, estado.sigla
+FROM cidade
+INNER JOIN estado
+ON estado.id_est = cidade.id_est
+
 ```
