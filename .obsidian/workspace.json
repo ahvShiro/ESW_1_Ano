@@ -4,47 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "fc1ab353bcec7d66",
+        "id": "6c81495557fe9806",
         "type": "tabs",
         "children": [
           {
-            "id": "56c3eca78e663cec",
+            "id": "0612eae0b316aded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. LPGA/24-08-23 Resenha Crítica e Descritiva.md",
+                "file": "24-09-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eae8af65f9671017",
+            "id": "f3f22ea48e420b0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. ESW/24-08-26 Requisitos funcionais.md",
+                "file": "7. BD I/Lista de exercícios 2º trimestre.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9267dcf4ba566567",
+            "id": "a0c769babe14d8bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-08-29 Artigo científico.md",
+                "file": "24-09-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dc9a70406ca6323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. BD I/24-08-23 SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e650e928075a6d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-08-29 Artigo científico.md",
+                "file": "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-08-29 Artigo científico.md",
+                "file": "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-08-29 Artigo científico.md"
+                "file": "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md"
               }
             }
           },
@@ -180,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "24-08-29 Artigo científico.md"
+                "file": "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md"
               }
             }
           },
@@ -208,20 +232,28 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9267dcf4ba566567",
+  "active": "f57ba81208f5500f",
   "lastOpenFiles": [
-    "24-08-29 Artigo científico.md~",
+    "24-09-05.md",
+    "24-09-06.md",
     "README.md",
-    "24-08-29 Artigo científico.md",
-    "1. ESW/24-08-26 Requisitos funcionais.md",
+    "7. BD I/Lista de exercícios 2º trimestre.md",
+    "7. BD I/24-08-23 SQL.md",
+    "7. BD I/24-07-19 Relacionamentos e Cardinalidade.md",
+    "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md",
     "8. LPGA/24-08-23 Resenha Crítica e Descritiva.md",
+    "Excalidraw/Excedente consumidor 1 eq.md",
+    "Excalidraw",
+    "5. MPES/24-08-29 Artigo científico.md",
+    "24-08-29 Artigo científico.md~",
+    "1. ESW/24-08-26 Requisitos funcionais.md",
     "2. AG I/24-08-20 Estruturas de dados - Vetores.md",
     "8. LPGA/Assíncrona.md",
     "5. MPES/Pesquisa e Fundamentos.md",
-    "7. BD I/24-08-23 SQL.md",
     "5. MPES/24-08-22 Artigos científicos.md",
     "5. MPES/24-07-25 Revisão.md",
     "8. LPGA/24-07-12 Relatório.md",
@@ -238,12 +270,7 @@
     "8. LPGA/Untitled.md",
     "8. LPGA/~syncthing~2024-08-02.md.tmp",
     "8. LPGA/~syncthing~Untitled.md.tmp",
-    "7. BD I/Diagrama ER.md",
     "7. BD I/~syncthing~Diagrama ER.md.tmp",
-    "5. MPES/Untitled Kanban.md",
-    "2. AG I/24-07-30 Loops contados e não contados.md",
-    "Untitled.md",
-    "7. BD I/24-07-19 Relacionamentos e Cardinalidade.md",
     "4. ECS/Revisão 1º Trimestre.canvas",
     "atividade06.py",
     "Revisão ESW.sync-conflict-20240722-191110-AYHW47V.canvas",
@@ -254,8 +281,6 @@
     "~syncthing~Revisão ESW.sync-conflict-20240722-191716-AYHW47V.canvas.tmp",
     "~syncthing~Revisão ESW.sync-conflict-20240722-191220-AYHW47V.canvas.tmp",
     "~syncthing~Revisão ESW.sync-conflict-20240722-191110-AYHW47V.canvas.tmp",
-    "~syncthing~Revisão ESW.sync-conflict-20240722-190834-AYHW47V.canvas.tmp",
-    "8. LPGA",
     "EE/Untitled.canvas",
     "0. Assets/diagrama_conceitual.png",
     "0. Assets/diagrama_logico.png",
