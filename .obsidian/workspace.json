@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6c81495557fe9806",
+        "id": "ac4613d7ad0ba057",
         "type": "tabs",
         "children": [
           {
-            "id": "0612eae0b316aded",
+            "id": "c15178303ebbf8be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-09-05.md",
+                "file": "24-09-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f3f22ea48e420b0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. BD I/Lista de exercícios 2º trimestre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0c769babe14d8bb",
+            "id": "480801c4843f7e58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4dc9a70406ca6323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. BD I/24-08-23 SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e650e928075a6d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -142,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md",
+                "file": "24-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md",
+                "file": "24-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md"
+                "file": "24-09-06.md"
               }
             }
           },
@@ -204,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md"
+                "file": "24-09-06.md"
               }
             }
           },
@@ -236,17 +200,20 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f57ba81208f5500f",
+  "active": "480801c4843f7e58",
   "lastOpenFiles": [
+    "24-09-05.md",
+    "README.md",
+    "24-09-10.md",
+    "7. BD I/23-08-09 Lista de exercícios 2º trimestre.md",
+    "7. BD I/Diagrama ER.md",
+    "24-09-06.md",
+    "7. BD I/24-08-23 SQL.md",
+    "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md",
+    "0. Assets/Screenshot 2024-09-08 234542.png",
     "24-08-30 ACID",
     "24-08-29 Artigo científico.md",
-    "24-09-05.md",
-    "24-09-06.md",
-    "README.md",
-    "7. BD I/Lista de exercícios 2º trimestre.md",
-    "7. BD I/24-08-23 SQL.md",
     "7. BD I/24-07-19 Relacionamentos e Cardinalidade.md",
-    "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md",
     "8. LPGA/24-08-23 Resenha Crítica e Descritiva.md",
     "Excalidraw/Excedente consumidor 1 eq.md",
     "Excalidraw",
@@ -266,7 +233,6 @@
     "1. ESW/24-08-12 Priorização de requisitos.md",
     "1. ESW/24-08-05 Requisitos.md",
     "1. ESW/Revisão ESW.canvas",
-    "3. EE/24-08-07 Intervenção Governamental - Assíncrono.md",
     "5. MPES/Revisão não concluida.canvas",
     "8. LPGA/~syncthing~2024-08-02.md.tmp",
     "8. LPGA/~syncthing~Untitled.md.tmp",
@@ -280,7 +246,6 @@
     "Revisão ESW.sync-conflict-20240722-191716-AYHW47V.canvas",
     "~syncthing~Revisão ESW.sync-conflict-20240722-191716-AYHW47V.canvas.tmp",
     "~syncthing~Revisão ESW.sync-conflict-20240722-191220-AYHW47V.canvas.tmp",
-    "~syncthing~Revisão ESW.sync-conflict-20240722-191110-AYHW47V.canvas.tmp",
     "EE/Untitled.canvas",
     "0. Assets/diagrama_conceitual.png",
     "0. Assets/diagrama_logico.png",
@@ -290,7 +255,6 @@
     "!! assets !!/diagrama_conceitual.png",
     "!assets/diagrama_conceitual.png",
     "!assets/diagrama_logico.png",
-    "!assets/piramide_do_conhecimento.png",
-    "fcf0413f-fe9c-4741-80f0-7049d3bd80f4.png"
+    "!assets/piramide_do_conhecimento.png"
   ]
 }

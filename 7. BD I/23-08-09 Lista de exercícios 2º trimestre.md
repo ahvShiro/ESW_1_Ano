@@ -352,6 +352,7 @@ ON funcionarios.id_funcionario = contas_bancarias.id_funcionario;
 
 ```
 
+![[Screenshot 2024-09-08 234542.png]]
 
 https://onecompiler.com/postgresql/42ravrp2h
 https://onecompiler.com/postgresql/42rkdrtj9
