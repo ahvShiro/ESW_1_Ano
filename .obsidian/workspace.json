@@ -8,31 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c15178303ebbf8be",
+            "id": "480801c4843f7e58",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0. Assets/Screenshot 2024-09-08 234542 1.png"
+              }
+            }
+          },
+          {
+            "id": "14224fe341bdfadc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-09-10.md",
+                "file": "24-09-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "480801c4843f7e58",
+            "id": "e70f5c8d968b3300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-09-06.md",
+                "file": "24-09-23 Regra de Negócio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-09-06.md",
+                "file": "24-09-23 Regra de Negócio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-09-06.md",
+                "file": "24-09-23 Regra de Negócio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-09-06.md"
+                "file": "24-09-23 Regra de Negócio.md"
               }
             }
           },
@@ -168,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "24-09-06.md"
+                "file": "24-09-23 Regra de Negócio.md"
               }
             }
           },
@@ -200,16 +210,18 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "480801c4843f7e58",
+  "active": "f57ba81208f5500f",
   "lastOpenFiles": [
-    "Screenshot 2024-09-08 234542.png",
-    "24-08-30 ACID.md",
-    "24-09-05.md",
     "README.md",
+    "24-09-23 Regra de Negócio.md",
+    "24-09-11.md",
+    "0. Assets/Screenshot 2024-09-08 234542 1.png",
+    "24-09-05.md",
     "24-09-10.md",
+    "24-09-06.md",
+    "7. BD I/24-08-30 ACID.md",
     "7. BD I/23-08-09 Lista de exercícios 2º trimestre.md",
     "7. BD I/Diagrama ER.md",
-    "24-09-06.md",
     "7. BD I/24-08-23 SQL.md",
     "3. EE/24-09-02 SE EU NÃO ENTENDER EU ME MATO.md",
     "0. Assets/Screenshot 2024-09-08 234542.png",
@@ -231,7 +243,6 @@
     "8. LPGA/24-07-25 Relatório de Ciência da Computação.md",
     "8. LPGA/2024-08-02 Ideias para pesquisa.md",
     "4. ECS/24-08-21 Atividade ECS - Engenharia de Software.md",
-    "1. ESW/24-08-19 Classificação de Requisitos.md",
     "1. ESW/Revisão ESW.canvas",
     "5. MPES/Revisão não concluida.canvas",
     "8. LPGA/~syncthing~2024-08-02.md.tmp",
@@ -254,7 +265,6 @@
     "!! assets !!/diagrama_logico.png",
     "!! assets !!/diagrama_conceitual.png",
     "!assets/diagrama_conceitual.png",
-    "!assets/diagrama_logico.png",
-    "!assets/piramide_do_conhecimento.png"
+    "!assets/diagrama_logico.png"
   ]
 }
