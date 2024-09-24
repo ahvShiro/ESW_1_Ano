@@ -24,5 +24,4 @@
 	- Após a verificação de disponibilidade, se houver quartos disponíveis, solicitar nome, endereço e telefone do cliente.
 - Cancelamento da reserva
 	- Caso o pagamento não seja efetuado pelo cliente em até três dias antes da data prevista de entrada, a reserva é cancelada.
-- Impressão de relatório
-	- As 00:00 de cada dia, disponibilizar um relatório em PDF de todas as reservas que foram canceladas no dia anterior.
+- 
