@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac4613d7ad0ba057",
+        "id": "7721efe51cdb1de0",
         "type": "tabs",
         "children": [
           {
-            "id": "480801c4843f7e58",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Assets/Screenshot 2024-09-08 234542 1.png"
-              }
-            }
-          },
-          {
-            "id": "14224fe341bdfadc",
+            "id": "0b33dc8dad2092fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-09-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e70f5c8d968b3300",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "24-09-23 Regra de Negócio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8921b3bd5b183d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "24-09-23 Regra de Negócio.md",
+                "file": "5. MPES/24-09-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5026054382324
+    "width": 200
   },
   "right": {
     "id": "6c79a4f73f378171",
@@ -128,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-09-23 Regra de Negócio.md",
+                "file": "5. MPES/24-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-09-23 Regra de Negócio.md",
+                "file": "5. MPES/24-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-09-23 Regra de Negócio.md"
+                "file": "5. MPES/24-09-05.md"
               }
             }
           },
@@ -190,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "24-09-23 Regra de Negócio.md"
+                "file": "5. MPES/24-09-05.md"
               }
             }
           },
@@ -222,13 +187,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f8921b3bd5b183d5",
+  "active": "f57ba81208f5500f",
   "lastOpenFiles": [
     "README.md",
-    "0. Assets/Screenshot 2024-09-08 234542 1.png",
-    "24-09-23 Regra de Negócio.md",
+    "5. MPES/24-09-05.md",
+    "1. ESW/24-09-23 Regra de Negócio.md",
     "24-09-11.md",
-    "24-09-05.md",
+    "0. Assets/Screenshot 2024-09-08 234542 1.png",
     "24-09-10.md",
     "24-09-06.md",
     "7. BD I/24-08-30 ACID.md",
@@ -241,8 +206,8 @@
     "24-08-29 Artigo científico.md",
     "7. BD I/24-07-19 Relacionamentos e Cardinalidade.md",
     "8. LPGA/24-08-23 Resenha Crítica e Descritiva.md",
-    "Excalidraw/Excedente consumidor 1 eq.md",
-    "Excalidraw",
+    "0. Assets/Excalidraw/Excedente consumidor 1 eq.md",
+    "0. Assets/Excalidraw",
     "5. MPES/24-08-29 Artigo científico.md",
     "24-08-29 Artigo científico.md~",
     "1. ESW/24-08-26 Requisitos funcionais.md",
