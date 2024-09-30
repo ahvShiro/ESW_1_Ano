@@ -48,4 +48,7 @@
   - Design patterns
   
 - Legais
-  - 
+  - Exigências com legislações
+  - LGPA, normas de saúde da Agência Nacional de Saúde, normas do Banco Central
+ 
+- 
