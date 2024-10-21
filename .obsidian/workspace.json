@@ -16,7 +16,9 @@
                 "file": "1. ESW/24-09-30 Requisitos não funcionais.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "24-09-30 Requisitos não funcionais"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "24-10-14 Escopo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "24-10-14 Escopo"
             }
           },
           {
@@ -37,10 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-10-14 Gerenciamento de Mudanças.md",
+                "file": "8. LPGA/24-07-12 Relatório.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "24-07-12 Relatório"
             }
           }
         ],
@@ -64,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -95,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-10-14 Gerenciamento de Mudanças.md",
+                "file": "8. LPGA/24-07-12 Relatório.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 24-07-12 Relatório"
             }
           },
           {
@@ -135,10 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-10-14 Gerenciamento de Mudanças.md",
+                "file": "8. LPGA/24-07-12 Relatório.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 24-07-12 Relatório"
             }
           },
           {
@@ -149,7 +167,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -158,8 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-10-14 Gerenciamento de Mudanças.md"
-              }
+                "file": "8. LPGA/24-07-12 Relatório.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 24-07-12 Relatório"
             }
           },
           {
@@ -171,7 +193,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -180,8 +204,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "24-10-14 Gerenciamento de Mudanças.md"
-              }
+                "file": "8. LPGA/24-07-12 Relatório.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 24-07-12 Relatório"
             }
           },
           {
@@ -189,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -214,8 +242,8 @@
   },
   "active": "127b1c9528ecc401",
   "lastOpenFiles": [
-    "24-10-14 Escopo.md",
     "24-10-14 Gerenciamento de Mudanças.md",
+    "24-10-14 Escopo.md",
     "README.md",
     "1. ESW/24-09-30 Requisitos não funcionais.md",
     "kjffkj.txt",
